@@ -1,4 +1,4 @@
-"The Road Not Taken", by Robert Frost
+"The Road Not Taken", by Robert Frost (1915)
 
 Two roads diverged in a yellow wood,
 And sorry I could not travel both
@@ -62,3 +62,5 @@ If you can fill the unforgiving minute
 With sixty seconds' worth of distance run,
 Yours is the Earth and everything that's in it,
 And—which is more—you'll be a Man, my son!
+
+"and" counter: 27
